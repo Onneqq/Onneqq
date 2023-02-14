@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onneqq&label=Profile%20views&color=0e75b6&style=flat" alt="onneqq" /> </p>
 
-- 🔭 I’m currently working on [Back In My Day - Guess the Year - Browser Based Game](https://back-in-my-day-e9752.web.app/)
+- 🔭 I’m currently working on [Personal Portfolio Website](www.adampenno.dev)
 
 - 🌱 I’m currently learning **React**
 
@@ -12,6 +12,18 @@
 - 💬 Ask me about **JavaScript, React, Ruby**
 
 - 📫 How to reach me **adampenno93@gmail.com**
+
+Project ScreenShots:
+
+Back In My Day:
+![BIMD Game Example](https://i.imgur.com/isRKA2C.png)
+
+Sprite Knight:
+![Sprite Knight Home Page Example](https://user-images.githubusercontent.com/116997107/213455743-0da1169f-e698-4c91-a958-7429fb1d5df9.png)
+
+Mario Tic Tac Toe:
+![Mario Tic Tac Toe Example](https://i.imgur.com/xKgR9OI.png)
+
 
 <p align="left">
 </p>
