@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onneqq&label=Profile%20views&color=0e75b6&style=flat" alt="onneqq" /> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio Website (not yet hosted)](www.adampenno.dev)
+- 🔭 I’m currently working on [Personal Portfolio Website](www.adampenno.dev)
 
 - 🌱 I’m currently learning **React**
 
