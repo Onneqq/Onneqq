@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Onneqq](https://github.com/Onneqq)
-
 - 💬 Ask me about **JavaScript, React, Ruby**
 
 - 📫 How to reach me **adampenno93@gmail.com**
