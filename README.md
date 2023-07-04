@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onneqq&label=Profile%20views&color=0e75b6&style=flat" alt="onneqq" /> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio Website](https://adampenno.dev/)
-
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS, React and Typescript**
 
 - 💬 Ask me about **JavaScript, React, Ruby**
-
-- 📫 How to reach me **adampenno93@gmail.com**
 
 Project ScreenShots:
 
